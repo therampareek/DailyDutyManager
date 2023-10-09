@@ -1,7 +1,3 @@
 # Todo-List-App
-## [Watch it on youtube](https://youtu.be/u_ocJEv6c4Q)
-### Building a Todo List App from Scratch | HTML, CSS, JavaScript 
-
-💙 Join the channel to see more videos like this. [Open Source Coding](https://www.youtube.com/@opensourcecoding)
-
-![preview img](/preview.png)
+## [Manage your tasks effortlessly with our JavaScript Todos List App. Organize, prioritize, and track your to-dos seamlessly using this user-friendly web application.]
+### Buildin DailyDutyManager App from Scratch | HTML, CSS, JavaScript 
