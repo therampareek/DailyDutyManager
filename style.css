@@ -98,7 +98,7 @@ body {
     position: relative;
 }
 
-.welcome .img .backdrop {
+/* .welcome .img .backdrop {
     position: absolute;
     top: 0;
     left: 50%;
@@ -108,7 +108,7 @@ body {
     border-radius: 50%;
     background-color: #e5e7fd;
     z-index: -1;
-}
+} */
 
 .welcome .img img {
     width: 5rem;
